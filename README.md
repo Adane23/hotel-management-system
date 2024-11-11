@@ -1,4 +1,4 @@
-#Megenagna Hotel Management System
+#Megenagna Hotel Management System:
 	A full-stack hotel management application built with Spring Boot and React. This system allows users to view, book, and manage hotel rooms, while also providing admin features for managing room inventory and viewing bookings. The application integrates JWT-based authentication for secure access control, with separate roles for customers and admin users.
 
 ## Table of Contents
